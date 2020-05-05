@@ -1,6 +1,6 @@
 # MEGAHack
 
-## O QUE É O MEGA HACK#
+## O QUE É O MEGA HACK?
 
 
 O maior hackathon on-line do Brasil não poderia carregar outro nome, senão: MEGA!
