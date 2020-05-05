@@ -1,0 +1,18 @@
+CREATE TABLE characteristics(
+   ID SERIAL PRIMARY KEY,
+   INFORMATION       CHAR(500),
+   DESCRIPTION	  CHAR(500),
+   PRODUCT_ID         INT       REFERENCES products(id) ON DELETE CASCADE
+);
+
+CREATE TABLE products(
+   ID  SERIAL PRIMARY KEY,
+   NAME           TEXT      NOT NULL,
+   REVIEW         REAL       ,
+   DESCRIPTION    TEXTL);
+
+CREATE TABLE questions(
+    ID SERIAL PRIMARY KEY,
+    QUESTION TEXT
+    ANSWER TEXT
+        );
