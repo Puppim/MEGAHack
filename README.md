@@ -14,4 +14,4 @@ Serão 11 dias, 10 diferentes desafios para escolher e infinitas possibilidades.
 
 ## DESAFIO OLIST
 
-### Solução Chatbot com machine learning que responde e filtra se a perguntas são relevantes para os vendedores.
+### Solução Chatbot com machine learning que responde e filtra se as perguntas são relevantes para os vendedores.
